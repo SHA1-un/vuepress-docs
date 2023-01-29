@@ -20,4 +20,5 @@ export default defineUserConfig({
   theme,
 
   shouldPrefetch: false,
+  dest: 'public'
 });
